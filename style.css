@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    padding: 0 80px;
+}
+
+.collection {
+    display: flex;
+    margin-left: 400px;
+}
+
+.item {
+    list-style: none;
+    margin-right: 69px;
+}
+
+.search_btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    background: transparent;
+    padding-top: 2px;
+    margin-right: 15px;
+}
+
+.btn {
+    padding: 14px 25px;
+    border-radius: 56px;
+    background: #283337;
+    color: #fff;
+    border: none;
+}
+
+.banner {
+    width: 100%;
+    /* height: 1300px; */
+    padding-bottom: 150px;
+    background: #F3F7F4;
+}
+
+.banner_item {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    padding-top: 150px;
+}
+
+.banner_text {
+    width: 45%;
+    height: 400px;
+    padding-top: 80px;
+}
+
+.banner_text h1 {
+    font-family: 'Times New Roman';
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.banner_text p {
+    font-size: 21px;
+    padding-top: 44px;
+    padding-bottom: 21px;
+    width: 60%;
+}
+
+.banner_img {
+    width: 40%;
+    height: 500px;
+    background: url(./Frame\ \(1\).png) no-repeat center/contain;
+}
+
+.banner_logo {
+    width: 90%;
+    /* height: 120px; */
+    margin: 0 auto;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner_logo img {
+    margin-left: 60px;
+}
+
+.banner2 {
+    width: 100%;
+    height: 100vh;
+    background: #F3F7F4;
+}
+
+.text2 {
+    margin-left: 120px;
+    width: 363px;
+    height: 104px;
+    Top: 22px;
+    Left: 3px;
+    padding-top: 90px;
+}
+
+.img2 {
+    height: 548px;
+    width: 560px;
+    left: 0px;
+    top: 0px;
+    border-radius: 6px;
+    margin-left: 800px;
+
+}
+
+.img1 {
+    align-items: center;
+}
+
+.img2 h1 {
+    width: 40px;
+    margin-bottom: 40px;
+}
+
+.btn2 {
+    margin-top: 250px;
+    margin-left: 470px;
+    border: none;
+}
+
+.top {
+    width: 90%;
+    height: 200px;
+
+}
+
+.toptop {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.top_text {
+    width: 17%; 
+}
+
+.top h1 {
+    text-align: center;
+}
